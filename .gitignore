@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+
+# Prisma
+prisma/migrations/
+
+# IDE files
+.vscode/
